@@ -1,7 +1,7 @@
-Temperature Meter
+Lm-35 Sensor with STM-32 by using ADC Driver
 Arm based Embedded System Project using STM32 microcontroller and LM35 Temperature sensor for temperature measurement
 
-Impemented the following drivers:
+Implemented the following drivers:
 1. GPIO
 2. LCD
 3. LM35 Temperature Sensor
